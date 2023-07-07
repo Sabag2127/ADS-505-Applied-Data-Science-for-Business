@@ -1,7 +1,7 @@
 # ADS 505_Team 6_Final Project 
 # Maximizing Cross-Sell Opportunities with Predictive Modeling
 ## Contributors
-Lai Ieng Chan, Ben Earnest, Saba Alemayehu
+Lai Ieng Chan, Ben Earnest, and Saba Alemayehu
 ## Methods  
 * Pre-processing 
 * Data Visualization
