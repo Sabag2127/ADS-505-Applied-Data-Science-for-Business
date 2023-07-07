@@ -6,7 +6,7 @@ Lai Ieng Chan, Ben Earnest, Saba Alemayehu
 * Pre-processing 
 * Data Visualization
 * Data Exploration 
-* Machine Learning Modeling (Classification and Topic)
+* Machine Learning Modeling 
 * Evaluation Metrics
 ## Project Description and Objectives
 ## Machine Learning Goals 
